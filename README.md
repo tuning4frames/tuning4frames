@@ -1,16 +1,82 @@
-## Hi there 👋
+```ascii
+             ,----------------,              ,---------,
+        ,-----------------------,          ,"        ,"|
+      ,"                      ,"|        ,"        ,"  |
+     +-----------------------+  |      ,"        ,"    |
+     |  .-----------------.  |  |     +---------+      |
+     |  |                 |  |  |     | -==----'|      |
+     |  |  > tuning       |  |  |     |         |      |
+     |  |  > 4frames_     |  |  |/----|`---=    |      |
+     |  |  > ./init.sh    |  |  |   ,/|==== ooo |      ;
+     |  |                 |  |  |  // |(((( [33]|    ,"
+     |  `-----------------'  |," .;'| |((((     |  ,"
+     +-----------------------+  ;;  | |         |,"  
+        /_)______________(_/  //'   | +---------+
+   ___________________________/___  `,
+  /  oooooooooooooooo  .o.  oooo /,   \,"-----------
+ / ==ooooooooooooooo==.o.  ooo= //   ,`\--{)B     ,"
+/_==__==========__==_ooo__ooo=_/'   /___________,"
+`-----------------------------'
+
+user@machine:~$ whoami
+@tuning4frames
+
+user@machine:~$ cat ~/.first_language
+Python
+
+user@machine:~$ ls ~/work_in_progress_projects
+🦗 Vortex
+
+user@machine:~$ echo "Available for collabs, ideas, or just saying hey."
+Available for collabs, ideas, or just saying hey.
+
+user@machine:~$ ./working_on_new_projects.sh
+🚀 Vortex 75% Complete
+
+user@machine:~$ cat ~/favorites.txt
+@Bogxd
+@Fireship
+@Hyperplexed
+@Juxtopposed
+@NetworkChuck
+
+user@machine:~$ status --collab-ready
+[OK]
+
+user@machine:~$
+
+$ gcc donut.c -o donut && ./donut
+
+                                     $@@$$$@@@@@@                              
+                                 $$##########$$$$$$$$                          
+                              ###**!!!!!!!*!***###$$$$$#                       
+                            #***!!!!!=====!!!!!!**####$$$#                     
+                           ***!!!=;;:::~~::;;==!!!**#######                    
+                         !**!!!=;::~~-,.,,-~::;==!!***#####*                   
+                         !*!!!=;;~-,........,-~:;=!!***####*!                  
+                        !**!!==;:~,..........,-:;==!!*******!                  
+                        !**!!!=;:-,..       ..-~:;=!!*******!=                 
+                       ;!*****!==~,.         .-:;==!!*******!=                 
+                       :!***###**!=:         -:;==!!!******!!;                 
+                       :=!*########*=       :;;==!!!!***!!!!=;                 
+                        =!**##$$$$$$$#*! !!!!!!!!!******!!!=;:                 
+                        :=!*##$$$@@@@$$$###*********!!!!!!==:                  
+                         ;=!**#$$$$$$$$$$####*****!!!!!!==;:                   
+                          :=!!**###$$$$$####****!!!!!!==;;:                    
+                           ~;=!!*****####*****!!!!!===;;:~                     
+                             -;;!!!!!!!*!!!!!!!!===;;:~-.                      
+                               -~:;;=========;;;;::~-,                         
+                                  .-~~~:::::~~~--,.
+
+$ █
+```
 
 <!--
-**tuning4frames/tuning4frames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+if youre reading this youre nosy but i respect it
 
-Here are some ideas to get you started:
+- working on stuff
+- learning things
+- vibing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+thats about it
 -->
