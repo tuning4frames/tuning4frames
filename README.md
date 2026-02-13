@@ -70,7 +70,6 @@ $ gcc donut.c -o donut && ./donut
 
 $ █
 ```
-
 <!--
 if youre reading this youre nosy but i respect it
 
