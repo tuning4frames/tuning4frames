@@ -18,10 +18,10 @@
 /_==__==========__==_ooo__ooo=_/'   /___________,"
 `-----------------------------'
 
-user@machine:~$ whoami
+tuner@debian:~$ whoami
 @tuning4frames
 
-$ gcc donut.c -o donut && ./donut
+tuner@debian:~$ gcc donut.c -o donut && ./donut
 
                                      $@@$$$@@@@@@                              
                                  $$##########$$$$$$$$                          
@@ -44,7 +44,7 @@ $ gcc donut.c -o donut && ./donut
                                -~:;;=========;;;;::~-,                         
                                   .-~~~:::::~~~--,.
 
-$ █
+tuner@debian:~$ █
 ```
 <!--
 if youre reading this youre nosy but i respect it
