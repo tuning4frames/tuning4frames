@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985" height="495" font-size="15"><style>
+@font-face {
+  src: local('Consolas'), local('Consolas Bold');
+  font-family: 'ConsolasFallback';
+  font-display: swap;
+  -webkit-size-adjust: 109%;
+  size-adjust: 109%;
+}
+.key {fill: #ffa657;}
+.value {fill: #a5d6ff;}
+.cc {fill: #616e7f;}
+.addColor {fill: #3fb950;}
+.delColor {fill: #f85149;}
+text, tspan {white-space: pre;}
+</style><rect width="985" height="495" fill="#161b22" rx="15"/>
+<text x="15" y="30" fill="#c9d1d9" class="ascii" font-size="16">
+<tspan x="15" y="30">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡀⠀⠀⠀⠀⠀⠄⠀⠀⠀</tspan>
+<tspan x="15" y="50">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⡟⠇⠀⠀⠀⠀⢻⡄⠀⠀⠀</tspan>
+<tspan x="15" y="70">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡇⠀⠀⠀⠀⡸⣞⡇⠀⠀⠀</tspan>
+<tspan x="15" y="90">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠃⠀⠀⠀⢀⣧⢿⣽⡀⠀⠀</tspan>
+<tspan x="15" y="110">⠀⢴⣿⠆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠀⠀⠀⠀⣼⣞⡿⡞⡁⠀⠀</tspan>
+<tspan x="15" y="130">⠀⠀⠈⠓⢤⡀⠀⠀⠀⡀⠀⠀⠀⠀⠀⠀⠀⣾⠀⠀⠀⣰⣟⢾⣽⢃⡿⠀⠀</tspan>
+<tspan x="15" y="150">⠀⠀⠀⠀⠀⠙⢆⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣠⢤⣶⡻⣞⣿⣺⠇⣽⢣⠀</tspan>
+<tspan x="15" y="170">⢠⣄⡀⠀⠀⠀⠀⠙⢦⡀⠀⠀⠀⠀⣀⣠⣤⣿⣽⣻⢾⣽⣷⣾⣽⠃⢆⡇⠀</tspan>
+<tspan x="15" y="190">⠈⢻⣿⣶⣄⡀⠀⠀⠀⣉⣳⣴⢶⣞⡿⣽⣞⡷⣯⢿⡽⣞⣿⠟⠋⠁⠈⠀⠀</tspan>
+<tspan x="15" y="210">⠀⠀⢻⣿⣿⣿⣿⣶⣾⣿⡽⣯⣟⡾⣽⡷⣯⣟⡽⡾⣽⡯⠁⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="230">⠀⠀⠉⢞⣿⣿⢯⡿⣿⣯⣟⣷⣯⢿⣳⣟⡷⣽⣼⣻⣽⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="250">⠀⠀⠀⢾⣿⣿⣯⣽⣾⣿⣾⣗⡿⣯⡷⣯⣟⡷⣞⣼⣿⣀⠀⠀⠀⠀⢀⣠⠀</tspan>
+<tspan x="15" y="270">⠀⠀⢀⣼⠛⠏⠉⠉⠽⢟⢿⣿⣿⣿⣿⣷⣻⢾⡽⣞⡷⠄⡹⣶⠟⣻⢿⡃⠀</tspan>
+<tspan x="15" y="290">⠀⠀⣸⣯⠇⠀⠀⠀⠀⠀⠁⣽⣿⣿⣿⣷⣯⣿⣽⣛⡦⠀⠀⢩⠣⣹⢯⡇⠀</tspan>
+<tspan x="15" y="310">⠀⠀⢈⣿⡃⠁⠀⠀⠀⢀⣬⣾⣟⢿⣻⣿⣿⣟⡾⣽⡳⠄⠎⢳⢈⢯⣟⡆⠀</tspan>
+<tspan x="15" y="330">⠀⠀⣸⣷⣷⣶⣳⣶⣺⣿⣿⣷⢯⣟⣿⣿⣳⢯⠛⠅⠃⠀⠀⣴⢪⡿⣬⠂⠀</tspan>
+<tspan x="15" y="350">⠀⠀⢺⡽⣾⡽⣯⣟⣿⡿⣯⣿⣿⣾⢿⣿⠳⢏⣈⢠⠀⠀⣰⢿⡞⣜⣉⠀⠀</tspan>
+<tspan x="15" y="370">⠀⠀⠘⣽⣳⣟⣳⣟⣾⣽⣿⣿⣿⣿⣿⣦⣜⡻⡽⠆⠃⣴⡟⣯⠗⡣⣭⠀⠀</tspan>
+<tspan x="15" y="390">⠀⠀⠀⠹⣿⣾⣿⣯⣿⣾⣿⣿⣿⣿⣿⣿⣿⣿⣾⠧⠀⠹⠾⡵⡞⠹⢠⠀⠀</tspan>
+<tspan x="15" y="410">⠀⠀⠀⠐⠹⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢯⠊⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="430">⠀⠀⠀⠀⠀⣀⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢯⣏⡰⣶⣵⣢⢄⢠⡀⡄⠀⠀</tspan>
+<tspan x="15" y="450">⠀⠀⡀⠔⠉⠀⠀⢽⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣔⣻⢷⣯⡽⣚⣷⣻⡼⠀⠀</tspan>
+<tspan x="15" y="470">⠀⠀⠀⠀⠀⠀⠀⠘⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡟⣽⣞⣷⣻⠀⠀</tspan></text>
+<text x="370" y="30" fill="#c9d1d9">
+<tspan x="370" y="30">tuning4frames</tspan> -———————————————————————————————————————————————-—-
+<tspan class="cc" x="370" y="50">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ............................................ </tspan><tspan class="value">Windows, Linux</tspan>
+<tspan class="cc" x="370" y="70">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">18 years, 12 days, 4 hours</tspan>
+<tspan class="cc" x="370" y="90">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ....................................... </tspan><tspan class="value">T4F Hobbies, Inc.</tspan>
+<tspan class="cc" x="370" y="110">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> .............................................. </tspan><tspan class="value">Hobbyist</tspan>
+<tspan class="cc" x="370" y="130">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ................................................. </tspan><tspan class="value">VSCodium</tspan>
+<tspan class="cc" x="370" y="150">. </tspan>
+<tspan class="cc" x="370" y="170">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ... </tspan><tspan class="value">Java, JavaScript, Python, TypeScript</tspan>
+<tspan class="cc" x="370" y="190">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">HTML, CSS, JSON, YAML</tspan>
+<tspan class="cc" x="370" y="210">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">English, Dutch</tspan>
+<tspan class="cc" x="370" y="230">. </tspan>
+<tspan class="cc" x="370" y="250">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">Modding, Enhancing, Rewriting</tspan>
+<tspan class="cc" x="370" y="270">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Hardware</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">Repurposing</tspan>
+<tspan class="cc" x="370" y="290">. </tspan>
+<tspan class="cc" x="370" y="310">. </tspan><tspan class="key">Tools</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">LocalSend, WinRAR, VLC, Dolphin</tspan>
+<tspan class="cc" x="370" y="330">. </tspan><tspan class="key">Tools</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Flipper Zero, Phone, Swiss Army Knife</tspan>
+<tspan class="cc" x="370" y="350">. </tspan>
+<tspan x="370" y="370">- Contact</tspan> -———————————————————————————————————————————————————-—-
+<tspan class="cc" x="370" y="390">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ....................................... </tspan><tspan class="value">tuning4frames</tspan>
+<tspan class="cc" x="370" y="410">. </tspan><tspan class="key">Discord</tspan>:<tspan class="cc"> ........................................ </tspan><tspan class="value">tuning4frames</tspan>
+<tspan class="cc" x="370" y="430">. </tspan>
+<tspan x="370" y="450">- GitHub Stats</tspan> -——————————————————————————————————————————————-—-
+<tspan class="cc" x="370" y="470">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">10</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value">1</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">8</tspan>
+</text>
+</svg>
